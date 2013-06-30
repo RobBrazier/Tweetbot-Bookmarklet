@@ -7,7 +7,7 @@ What this works for
 -------------------
 
 * View your Timeline by using the bookmarklet on twitter.com
-* View your Lists
+* [View your Lists](http://twitter.com/lists)
 * View your Favourites
 * View a status
 * Searching for something
