@@ -6,9 +6,9 @@ This is a small Bookmarklet to enable you to be redirected to the same content o
 What this works for
 -------------------
 
-* View your Timeline by using the bookmarklet on twitter.com
-* [View your Lists](http://twitter.com/lists)
-* View your Favourites
-* View a status
-* Searching for something
-* Viewing user profiles
+* [View your Timeline by using the bookmarklet on twitter.com](https://twitter.com)
+* [View your Lists](https://twitter.com/lists)
+* [View your Favourites](https://twitter.com/favorites)
+* [View a status](https://twitter.com/jack/status/20)
+* [Searching for something](https://twitter.com/search?q=%28╯°□°）╯︵%20┻━┻%29)
+* [Viewing user profiles](https://twitter.com/robbrazier_)
