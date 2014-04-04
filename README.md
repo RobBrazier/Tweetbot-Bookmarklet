@@ -13,4 +13,4 @@ What this works for
 * [Searching for something](https://twitter.com/search?q=%28╯°□°）╯︵%20┻━┻%29)
 * [Viewing user profiles](https://twitter.com/robbrazier_)
 
-As far as I know, for some reason this does not currently work on mobile devices. Any suggestions on improvements/pull requests are welcome!
+Any suggestions on improvements/pull requests are welcome!

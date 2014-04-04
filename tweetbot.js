@@ -1,11 +1,4 @@
 if(window.location.hostname.indexOf('twitter.com') !== -1){
-  // Check if viewing direct messages
-
-  if(document.getElementById('dm_dialog').style.display === "block"){
-    window.location = 'tweetbot://direct_messages';
-    return false;
-  }
-
   // Check if is homepage
 
   if(window.location.pathname == "/"){
