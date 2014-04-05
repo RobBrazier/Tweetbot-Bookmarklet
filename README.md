@@ -13,4 +13,14 @@ What this works for
 * [Searching for something](https://twitter.com/search?q=%28╯°□°）╯︵%20┻━┻%29)
 * [Viewing user profiles](https://twitter.com/robbrazier_)
 
+How to use this
+---------------
+
+To use this, you need to create a bookmark containing the content from [tweetbot.bookmarklet.js](https://raw.githubusercontent.com/RobBrazier/Tweetbot-Bookmarklet/master/tweetbot.bookmarklet.js).
+
+When you are on a Twitter.com page you can then open this bookmark and you will be switched to Tweetbot.
+
+Contributing
+------------
+
 Any suggestions on improvements/pull requests are welcome!
