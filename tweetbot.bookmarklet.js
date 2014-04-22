@@ -1,1 +1,0 @@
-javascript:(function(){s=document.createElement(%22script%22);s.type=%22text/javascript%22;s.src=%22https://raw.githubusercontent.com/RobBrazier/Tweetbot-Bookmarklet/master/tweetbot.js%22;document.getElementsByTagName(%22head%22)[0].appendChild(s);})();
