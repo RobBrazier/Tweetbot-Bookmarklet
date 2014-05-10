@@ -37,7 +37,7 @@ if(window.location.hostname.indexOf('twitter.com') !== -1){
 
   // Check if viewing user profile
 
-  if(pathname[1] && !pathname[2] && pathname[1] !== 'lists' && pathname[1] !== 'favourites' && pathname[1] !== 'status' && pathname[1] !== 'search' && pathname[1] !== 'search-home'){
+  if(pathname.length == 2 && pathname[1] !== 'lists' && pathname[1] !== 'favourites' && pathname[1] !== 'status' && pathname[1] !== 'search' && pathname[1] !== 'search-home'){
     window.location = 'tweetbot:///user_profile/'+pathname[1];
   }
 }
