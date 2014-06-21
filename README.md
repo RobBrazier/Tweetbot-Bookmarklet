@@ -22,8 +22,6 @@ To use this, you need to create a bookmark containing:
 javascript:(function(){s=document.createElement(%22script%22);s.type=%22text/javascript%22;s.src=%22https://rawgit.com/RobBrazier/Tweetbot-Bookmarklet/master/tweetbot.js%22;document.getElementsByTagName(%22head%22)[0].appendChild(s);})();
 ```
 
-or drag this link to your Bookmarks Bar: [Send to Tweetbot](javascript:(function(){s=document.createElement(%22script%22);s.type=%22text/javascript%22;s.src=%22https://rawgit.com/RobBrazier/Tweetbot-Bookmarklet/master/tweetbot.js%22;document.getElementsByTagName(%22head%22)[0].appendChild(s);})();)
-
 When you are on a Twitter.com page you can then open this bookmark and you will be switched to Tweetbot.
 
 Contributing
